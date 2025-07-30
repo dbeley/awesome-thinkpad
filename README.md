@@ -40,3 +40,8 @@ A curated list of community projects for Lenovo ThinkPad laptops inspired by [aw
 - [ThinkPads Forum](https://forum.thinkpads.com/) - Long-running message board.
 - [r/thinkpad](https://www.reddit.com/r/thinkpad/) - Active subreddit for discussion and support.
 - [DankPads](https://dankpads.com/) - Wiki covering the used market prices of ThinkPads.
+- [r/thinkpadmarket](https://www.reddit.com/r/thinkpadmarket/) - Marketplace for buying and selling used ThinkPads.
+- [r/thinkpadmods](https://www.reddit.com/r/thinkpadmods/) - Subreddit focused on hardware mods and upgrades.
+- [r/thinkpadsforsale](https://www.reddit.com/r/thinkpadsforsale/) - Community for trading ThinkPads and parts.
+- [Lenovo Community Forums](https://forums.lenovo.com/) - Official Lenovo discussion boards with active ThinkPad sections.
+- [51nb Forum](https://forum.51nb.com/) - Chinese community known for custom mainboards and other ambitious mods.
