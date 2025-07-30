@@ -28,17 +28,15 @@ A curated list of community projects for Lenovo ThinkPad laptops inspired by [aw
 - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer.
 
 ## Utilities
-- [thinkpad-scripts](https://github.com/jlesage/thinkpad-scripts) - Helper scripts for trackpoint and docking.
-- [tpfancontrol](https://sourceforge.net/projects/tpfancontrol/) - Windows fan speed utility.
+- [TPFanCtrl2](https://github.com/Shuzhengz/TPFanCtrl2) - Windows fan speed utility.
 - [acpi-call](https://github.com/mkottman/acpi_call) - Kernel module to call ACPI methods (e.g. disable discrete GPU).
 
 ## Hardware Mods
 - [thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Unofficial BIOS/EC patches.
 - [NitroPad](https://www.nitrokey.com/nitropad) - Pre-flashed coreboot/Heads ThinkPads.
-- [x260-fhd-mod](https://github.com/unendingError/thinkpad-x260-fhd) - Guide for 1080p screen upgrade.
 
 ## Documentation and Community
 - [ThinkWiki](https://thinkwiki.org/) - Wiki with extensive Linux info.
 - [ThinkPads Forum](https://forum.thinkpads.com/) - Long-running message board.
 - [r/thinkpad](https://www.reddit.com/r/thinkpad/) - Active subreddit for discussion and support.
-
+- [DankPads](https://dankpads.com/) - Wiki covering the used market prices of ThinkPads.
