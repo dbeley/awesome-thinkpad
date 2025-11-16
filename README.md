@@ -52,6 +52,12 @@ A curated list of community projects for Lenovo ThinkPad laptops inspired by [aw
 - [arduino-thinkpadkb-usb](https://github.com/rampadc/arduino-thinkpadkb-usb) - Arduino Micro adapter that turns classic 7-row keyboards with TrackPoint into modern USB devices.
 - [Lights Out](https://github.com/xairy/lights-out) - Demonstrates reflashing the X230 webcam to gain LED control; valuable reference for firmware-level hardware mods (use with caution).
 
+### Mechanical & Ortholinear Keyboard Swaps
+- [ThinKeys](https://github.com/moduloindustries/thinkeys) - Split ortholinear drop-in module with TrackPoint support and QMK firmware that directly replaces the stock keyboard on T410/T420/T430, T510/T520/T530, W510/W520/W530, and X220/X230 systems.
+- [ThinkPad W530 OLKB](https://github.com/Michal-Szczepaniak/thinkpad-w530-olkb) - Preonic-style PCB that bolts into xx20/xx30 ThinkPads, uses a Raspberry Pi Pico controller, supports PG1425 low-profile switches, and exposes smart-card and Bluetooth headers for neat USB power/touchpad hookups.
+- [Pineapple series](https://github.com/saoto28/pineapple60) - Ongoing set of Alice-style and split TrackPoint builds (see the [X13 Gen2 guide](https://note.com/saoto28/n/n716b7ca2e1f9)) documenting how to replace T470s/X13 keyboards with Kailh PG1316 mechanical switches while wiring the new PCB to the internal smart-card USB bus.
+- [Clacktop mechanical Yoga mod](https://hackaday.com/2024/07/18/mechanical-keyboard-laptop-clacktop/) - Marcin Plaza's Lenovo Yoga 730 rebuild that replaces the chassis top with a titanium frame, squeezes in a slim mechanical keyboard, and retains full laptop functionality inside a custom acrylic-bottom shell.
+
 ## Documentation and Community
 - [ThinkWiki](https://thinkwiki.org/) - Wiki with extensive Linux info.
 - [ThinkPads Forum](https://forum.thinkpads.com/) - Long-running message board.
